@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f8308d5-5f99-4235-a6c9-72363c9d3af6" name="Changes" comment="Add leafletgeoclient">
-      <change beforePath="$PROJECT_DIR$/leafletgeoclient/.nojekyll" beforeDir="false" afterPath="$PROJECT_DIR$/.nojekyll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leafletgeoclient/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leafletgeoclient/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leafletgeoclient/lib/events.wfs.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/events.wfs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leafletgeoclient/lib/geojson.wfs.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/geojson.wfs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leafletgeoclient/lib/insert.wfs.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/insert.wfs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leafletgeoclient/lib/leaflet.wms.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/leaflet.wms.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leafletgeoclient/lib/proj4leaflet.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/proj4leaflet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leafletgeoclient/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leafletgeoclient/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+    <list default="true" id="1f8308d5-5f99-4235-a6c9-72363c9d3af6" name="Changes" comment="change path">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +35,11 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GONGSICONG\Desktop\geo1007" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684142866736</updated>
-      <workItem from="1684142899067" duration="825000" />
+      <workItem from="1684142899067" duration="1290000" />
     </task>
     <task id="LOCAL-00001" summary="Add leafletgeoclient">
       <created>1684143073781</created>
@@ -68,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684143082235</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change path">
+      <created>1684143797671</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684143797671</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add leafletgeoclient" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add leafletgeoclient" />
+    <MESSAGE value="change path" />
+    <option name="LAST_COMMIT_MESSAGE" value="change path" />
   </component>
 </project>
