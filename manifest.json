@@ -1,6 +1,6 @@
 {
     "lang": "en-us",
-    "name": "Geocoder app",
+    "name": "Geocoder",
     "short_name": "Geocoder",
     "description": "A platform provides basic location search on map and event adding function",
     "start_url": "/",
