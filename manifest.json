@@ -10,7 +10,7 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "/leafletgeoclient/icon.png",
+            "src": "/myLeaflet/icon.png",
             "sizes": "512x512"
         }
     ]
