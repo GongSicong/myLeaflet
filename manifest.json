@@ -1,0 +1,17 @@
+{
+    "lang": "en-us",
+    "name": "Geocoder app",
+    "short_name": "Geocoder",
+    "description": "A platform provides basic location search on map and event adding function",
+    "start_url": "/",
+    "background_color": "#2f3d58",
+    "theme_color": "#2f3d58",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/leafletgeoclient/icon.png",
+            "sizes": "512x512"
+        }
+    ]
+}
