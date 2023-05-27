@@ -3,7 +3,7 @@
     "name": "Geocoder",
     "short_name": "Geocoder",
     "description": "A platform provides basic location search on map and event adding function",
-    "start_url": "/",
+    "start_url": "/myLeaflet/",
     "background_color": "#2f3d58",
     "theme_color": "#2f3d58",
     "orientation": "any",
